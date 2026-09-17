@@ -39,12 +39,6 @@ Backend engineer
 **Moderation tooling.** Excel export (`maatwebsite/excel`) and Yajra DataTables server-side processing for reviewing large user and report tables.
 
 
-## Screenshots
-
-<!-- ![Admin Moderation](docs/admin-moderation.png) -->
-<!-- ![Chat Assistant](docs/chat-assistant.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
