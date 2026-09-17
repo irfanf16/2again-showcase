@@ -7,7 +7,7 @@ A mobile dating platform with matching, real-time chat, an AI onboarding assista
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Backend engineer — API design, conversational AI integration, payments and push infrastructure.
+Backend engineer
 
 ## Architecture
 
